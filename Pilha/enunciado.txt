@@ -1,0 +1,1 @@
+Utilize uma pilha para verificar se uma dada entrada possui parênteses, colchetes e chaves balanceadas.
